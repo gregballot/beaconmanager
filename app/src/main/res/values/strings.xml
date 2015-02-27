@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BeaconSetter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="MainActivityCaption">Beacons Manager</string>
+    <string name="MainActivityMajorText">Major</string>
+    <string name="MainActivityMinorText">Minor</string>
+    <string name="MainActivityProfileText">Profile</string>
+    <string name="MainActivitySetButtonText">Set Beacon</string>
+    <string name="title_activity_beacon_getter">BeaconGetterActivity</string>
+    <string name="BeaconGetterActivityGetButtonText">Get Beacon</string>
+    <string name="BeaconGetterActivityCatpionText">Get Beacon Status</string>
+    <string name="MainActivityGetButtonText">Get</string>
+    <string name="MainActivityGetIntentButtonText">Delete</string>
+    <string name="title_activity_beacon_eraser">BeaconEraserActivity</string>
+    <string name="BeaconEraserActivityButtonText">Remove Beacon</string>
+    <string name="MainActivityUseCaseText">UC</string>
+    <string name="MainActivityListButtonText">List</string>
+    <string name="title_activity_beacon_list">BeaconListActivity</string>
+    <string name="BeaconListActivityCaptionText">Beacons List</string>
+
+</resources>
